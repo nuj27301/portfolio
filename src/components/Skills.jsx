@@ -2,7 +2,8 @@ const skills = [
   { category: 'Language', items: ['Java'] },
   { category: 'Framework', items: ['Spring Boot', 'Spring Security', 'Spring Data JPA', 'MyBatis'] },
   { category: 'Database', items: ['MySQL', 'MariaDB', 'Redis'] },
-  { category: 'Deploy', items: ['Railway', 'Cloudtype', 'AWS EC2', 'GitHub Actions'] },
+  { category: 'Frontend', items: ['HTML', 'CSS', 'JavaScript', 'Thymeleaf', 'React'] },
+  { category: 'Deploy', items: ['Railway', 'Cloudtype', 'AWS EC2', 'GitHub Actions', 'Vercel'] },
   { category: 'Tool', items: ['Git', 'DBeaver', 'STS', 'VSCode'] },
 ]
 
