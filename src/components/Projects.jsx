@@ -55,7 +55,7 @@ const projects = [
     period: '2026',
     description: 'WebSocket + STOMP 기반 실시간 채팅 서비스. Redis 캐싱으로 성능을 개선하고 읽음/안읽음 처리를 구현했습니다.',
     skills: ['Java', 'Spring Boot', 'WebSocket', 'Redis', 'Railway'],
-    demo: 'https://https://chat-service-production-eea8.up.railway.app/',
+    demo: 'https://chat-service-production-eea8.up.railway.app/',
     github: 'https://github.com/nuj27301/chat-service',
     number: '02',
     details: {
